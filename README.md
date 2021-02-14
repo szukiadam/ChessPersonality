@@ -69,7 +69,18 @@ Illustrative games: ...
 
 
 
-
+Ideas for implementation:
+  - https://github.com/mptedesco/python-chess-analysis (in depth game analysis)
+  - count how many times each piece moved and compare it to the number of moves (more pawn moves -> probably attacking)
+  - when do pawn moves happen (already has space advantage or no)
+  - space advantage
+  - inaccuracies, how big are they
+  - how many blunders, inaccuracies etc. (when did they occur)
+  - suggested move (what piece), what piece did he move instead, is it an intermezzo (how do i check that?)
+  - opening type (open,closed,semi-closed etc.)
+  - quality of play when losing vs winning
+  - best vs worst move difference
+  
 
 
 
