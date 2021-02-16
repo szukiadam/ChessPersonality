@@ -67,6 +67,24 @@ Players of this kind: Steinitz, Tarrasch, Nimzowitsch, Botvinik, Kramnik, Leko
 
 Illustrative games: ...
 
+## Pragmatists
+
+Traits:
+
+- most common type of world champions
+- open-minded learners, who who can identify and learn new concepts rapidly
+- concrete, fact-based decision making
+- strong and accurate in the calculation of variations
+- strong & precise opening prep (often playing sharp variations)
+- often trend-setters with their opening-play
+- strong attackers with a great intuition for direct attacks on the king (the preparation of the attack might be just as important)
+- sometimes lose the thread in 'dull' or simple positions
+- excel is sharp positions
+- against pragmatists: go for boring and technical positions
+
+  
+Players of this kind: Alekhine, Euwe, Keres, Fischer, Korchnoi, Kasparov, Svidler, Topalov
+
 
 
 Ideas for implementation:
