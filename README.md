@@ -28,8 +28,10 @@ He went on to categorize chess players into 4 different groups:
 |                |Facts|General Concepts|
 |----------------|-------------------------------|-----------------------------|
 |Intuition|Activists ("Trial and error")          |Reflectors ("Alternatives")            |
-|Logic          |Pragmatists ("What must be done must be done..")            |Theorists ("A model for everything")     
-*source: http://www.qualitychess.co.uk/blog/1841*
+|Logic          |Pragmatists ("What must be done must be done..")            |Theorists ("A model for everything") 
+
+<br>
+*source:http://www.qualitychess.co.uk/blog/1841*
   
 I will move on to show what he thinks the recognizable traits of each category are. I will also add my ideas on what I think help us to classify a player into that group. 
 
