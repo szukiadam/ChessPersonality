@@ -91,6 +91,8 @@ Players of this kind: Alekhine, Euwe, Keres, Fischer, Korchnoi, Kasparov, Svidle
 
 Ideas for implementation:
   - https://github.com/mptedesco/python-chess-analysis (in depth game analysis)
+  - https://github.com/CYHSM/chess-surprise-analysis (chess surprise analysis, how "deep"/surprising a move is)
+  - https://github.com/MGleason1/PGN-Spy (originally made as an anti-cheat, but could be useful)
   - count how many times each piece moved and compare it to the number of moves (more pawn moves -> probably attacking)
   - when do pawn moves happen (already has space advantage or no)
   - space advantage
