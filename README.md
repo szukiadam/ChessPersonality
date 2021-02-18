@@ -101,7 +101,7 @@ Ideas for implementation:
   - suggested move (what piece), what piece did he move instead, is it an intermezzo (how do i check that?)
   - opening type (open,closed,semi-closed etc.)
   - quality of play when losing vs winning
-  - best vs worst move difference
+  - best vs second/third move difference, with various depths
   
 
 
