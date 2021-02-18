@@ -37,6 +37,24 @@ I will move on to show what he thinks the recognizable traits of each category a
 
 ## Activists
 
+Traits:
+
+- often held in high regard by chess fans due to entertaining and inventive playstyle
+- courageous, risky style 
+- inventive ideas may occasionally backfire
+- few have reached the very top
+- good feeling for initiative, for which they might sacrifice material
+- sharp combinative vision
+- strong sense of trade-off between material and initiative (intuitive talent)
+- calculate variations well
+- strong at blitz and rapid and other faster time controls
+- not afraid to make non-conventional moves
+- 
+
+  
+Players of this kind: 
+
+
 ## Reflectors
 
 Traits:
@@ -89,7 +107,7 @@ Players of this kind: Alekhine, Euwe, Keres, Fischer, Korchnoi, Kasparov, Svidle
 
 
 
-Ideas for implementation:
+## Ideas for implementation:
   - https://github.com/mptedesco/python-chess-analysis (in depth game analysis)
   - https://github.com/CYHSM/chess-surprise-analysis (chess surprise analysis, how "deep"/surprising a move is)
   - https://github.com/MGleason1/PGN-Spy (originally made as an anti-cheat, but could be useful)
