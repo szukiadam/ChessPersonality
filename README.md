@@ -1,5 +1,8 @@
 # ChessPersonality
 
+Logs:
+2021-02-27: decided which features to select, made some adjustments in the code according to this
+
 ## Introduction
 The general idea of my project is to differentiate chess styles and personalities, as it might be useful to predict the outcomes of the games.<br>
 Was this hipothesis true, the consequences could be immense. Previously coaches and players had not spent huge amount of time thinking about preparation in this way, but these styles might turn out to be more important than we initially thought. <br>
