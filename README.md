@@ -123,7 +123,25 @@ Players of this kind: Alekhine, Euwe, Keres, Fischer, Korchnoi, Kasparov, Svidle
   - opening type (open,closed,semi-closed etc.)
   - quality of play when losing vs winning
   - best vs second/third move difference, with various depths
-  
+
+## Selected Features
+  - number of mistakes, blunders, inaccuracies -> quality of play
+  - first mistake, game deciding moment (the game doesnt turn around)
+  - engine eval average, median, min, max (CP)
+  - Cp delta average, median, min, max
+  - material imbalance (average, longest) -> could indicate initiative
+  - development imbalance(avg, min, max, median) -> make it first 20 moves only!
+  - mobility imbalance()
+  - control imbalance
+  - tension,safety: tendencies (1-10, 11-20, 20-30, 31-40 etc. avg. )
+  - critical moment (which move), any characteristics for this(e.g. space, king safety, mobility, )?
+  - first+last inaccuracy, mistake, blunder
+  - avg cp delta
+  - was the suggested move with the same piece?
+  - only move? if not, was the correct piece moved?
+  - number of times each piece was moved (do something with early trades)
+  - opening
+  - attackers, surprise-moves (optional, only if i have a lot of time)
 
 
 
