@@ -140,7 +140,7 @@ Players of this kind: Alekhine, Euwe, Keres, Fischer, Korchnoi, Kasparov, Svidle
   - was the suggested move with the same piece?
   - only move? if not, was the correct piece moved?
   - number of times each piece was moved (do something with early trades)
-  - opening
+  - opening + statistics (e.g. from chessgames.com)
   - attackers, surprise-moves (optional, only if i have a lot of time)
 
 
