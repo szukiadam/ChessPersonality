@@ -2,6 +2,7 @@
 
 Logs:
 2021-02-27: decided which features to select, made some adjustments in the code according to this
+2021-03-01: improvements, getting nearer to extract useful data from a single game 
 
 ## Introduction
 The general idea of my project is to differentiate chess styles and personalities, as it might be useful to predict the outcomes of the games.<br>
@@ -126,7 +127,7 @@ Players of this kind: Alekhine, Euwe, Keres, Fischer, Korchnoi, Kasparov, Svidle
 
 ## Selected Features
   - number of mistakes, blunders, inaccuracies -> quality of play
-  - first mistake, game deciding moment (the game doesnt turn around)
+  - first inaccuracy,mistake,blunder - game deciding moment (the game doesnt turn around after)
   - engine eval average, median, min, max (CP)
   - Cp delta average, median, min, max
   - material imbalance (average, longest) -> could indicate initiative
