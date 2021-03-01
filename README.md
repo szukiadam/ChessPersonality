@@ -1,7 +1,7 @@
 # ChessPersonality
 
 Logs:
-2021-02-27: decided which features to select, made some adjustments in the code according to this
+2021-02-27: decided which features to select, made some adjustments in the code according to this <br>
 2021-03-01: improvements, getting nearer to extract useful data from a single game 
 
 ## Introduction
