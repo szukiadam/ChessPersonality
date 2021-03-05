@@ -3,6 +3,9 @@
 Logs:
 2021-02-27: decided which features to select, made some adjustments in the code according to this <br>
 2021-03-01: improvements, getting nearer to extract useful data from a single game 
+2021-03-03: improvements, getting nearer to extract useful data from a single game 
+2021-03-04: improvements, getting nearer to extract useful data from a single game -> done
+2021-03-05: looking for samples
 
 ## Introduction
 The general idea of my project is to differentiate chess styles and personalities, as it might be useful to predict the outcomes of the games.<br>
