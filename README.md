@@ -56,7 +56,7 @@ Traits:
 - 
 
   
-Players of this kind: 
+Players of this kind: Anand, Shirov, Morozevich
 
 
 ## Reflectors
