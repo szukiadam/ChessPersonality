@@ -144,7 +144,13 @@ Players of this kind: Alekhine, Euwe, Keres, Fischer, Korchnoi, Kasparov, Svidle
   - opening + statistics (e.g. from chessgames.com)
   - attackers, surprise-moves (optional, only if i have a lot of time)
 
+## Benchmarks 
 
+Without any data data cleaning, feature engineering etc. I selected ~50 games totrain my first model. <br>
+I've used fastai's tabular data model and xgboost to have a benchmark result.<br>
 
+Fastai Tabular | XGBoost
+------------ | -------------
+33% | 16%
 
 
