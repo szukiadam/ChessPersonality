@@ -153,7 +153,7 @@ Fastai Tabular | XGBoost
 ------------ | -------------
 33% | 16%
 
-## Improvements were needed everywhere ( ~ halfway during the semester)
+## Improvements were needed everywhere ( ~ halfway through the semester)
 
 After 200 data samples I still struggled to reach a decent performance, so I decided to automate my game evaluation pipeline.
 I choose a relatively big pgn chess database, moved it to a SQL database, and queried the games of my "example players".
