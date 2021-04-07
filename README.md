@@ -162,6 +162,6 @@ This change probably won't help me out as much as I want it to, so I need to hav
 In order to solve this problem I asked a teammate of mine. He recommended features that I have not considered before. 
 We'll see how much it helps!
 
-Added features: 
+Added features: how long until the player loses a worse position, how long until the player wins a better position, vegjatek mikor (vezerek mikor tunnek el a tablarol), gyaloglepesek % 
 
 My mentor also helped me tremendously with getting a stronger computer on our university cloud in order to solve the computational problems, as I wanted to analyze the games deeper, because I believe it might help me a great deal. 
